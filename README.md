@@ -8,12 +8,6 @@
         alt="Telegram Badge" 
       />
     </a>
-    <a href="https://vk.com/id25519335">
-      <img 
-        src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" 
-        alt="VK Badge" 
-      />
-    </a>
   </div>
   
   <h1>

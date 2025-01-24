@@ -64,9 +64,9 @@
 
 ### 👔 My CV
 <div align="center">
-  <a href="https://cv.hexlet.io/ru/resumes/6003">
+  <a href="https://hh.ru/resume/ed3d366cff0b37ddf10039ed1f4b5437455158">
     <img 
-      src="https://img.shields.io/badge/Hexlet-gray?logo=hexlet&logoColor=white&style=for-the-badge" 
+      src="https://img.shields.io/badge/View%20CV-red?logoColor=white&style=for-the-badge" 
       alt="CV Badge" 
     />
   </a>

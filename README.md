@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
   <p></p>
   <div id="badges">
+    <h4>Contact me:</h4>
     <a href="https://t.me/PKochetkov">
       <img 
         src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" 
@@ -11,11 +12,11 @@
   </div>
   
   <h1>
-    Привет. Меня зовут Павел
+    Hello. My name is Pavel.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
   </h1>
   
-  👨‍💻  <h3>JavaScript разработчик с большим интересом к веб-разработке и созданию интерактивных приложений.</h3>
+  👨‍💻  <h3>JavaScript developer with a keen interest in web development and creating interactive applications.</h3>
   
   <a href="https://www.github.com/PavelKochetkov?tab=followers" target="_blank" rel="noreferrer">
     <img
@@ -24,7 +25,7 @@
   </a>
 </div>
 
-### 🛠️ Навыки
+### 🛠️ Skills
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -78,7 +79,7 @@
   </a>
 </div>
 
-### :fire: Статистика
+### :fire: Statistics
 <div align="center">
   <a href="http://www.github.com/PavelKochetkov">
     <img src="https://github-readme-stats.vercel.app/api?username=PavelKochetkov&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="PavelKochetkov's GitHub stats" />
@@ -88,6 +89,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavelKochetkov&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
   <a href="https://github.com/PavelKochetkov">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelKochetkov&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelKochetkov&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top languages" />
   </a>
 </div>

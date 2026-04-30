@@ -13,10 +13,15 @@
   
   <h1>
     Hello. My name is Pavel.
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VnNmlhYWxkaThqNjNnMjE5eWU3dTdxYjN6NTlxcXQ1bXZkN2g0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vinJIgph3mQVZzwwMR/giphy.gif" width="40" />
   </h1>
   
-  👨‍💻  <h3>JavaScript developer with a keen interest in web development and creating interactive applications.</h3>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJqMmk4eG1ueWwzaHJkYXdyamF2dnR4aDR1bWQybDcxMnc0Y2NlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/O4gVEyRghQfjoMuJfY/giphy.gif" width="200px" alt="Read me" />
+  
+  <h3>
+      JavaScript developer with a keen interest in web development and creating interactive applications.
+      <p>Currently expanding my skills in Node.js backend development.</p>
+    </h3>
   
   <a href="https://www.github.com/PavelKochetkov?tab=followers" target="_blank" rel="noreferrer">
     <img
@@ -27,46 +32,32 @@
 
 ### 🛠️ Skills
 
+#### 🎨 Frontend
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Nextjs" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" />
-  </a>
-  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
+  <img src="https://iconic-api.onrender.com/dark/js" width="64px" alt="JavaScript" />
+  <img src="https://iconic-api.onrender.com/dark/typescript" width="64px" alt="TypeScript" /> 
+  <img src="https://iconic-api.onrender.com/dark/react" width="64px" alt="React" />
+  <img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" alt="Nextjs" />
+  <img src="https://iconic-api.onrender.com/light/redux" width="64px" alt="Redux" />
+  <img src="https://iconic-api.onrender.com/dark/zustand" width="64" alt="Zustand" />
+  <img src="https://iconic-api.onrender.com/dark/html" width="64px" alt="HTML5" />
+  <img src="https://iconic-api.onrender.com/dark/css" width="64px" alt="CSS3" />
+  <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" alt="Tailwind"/>
+</p>
+<br>
+
+#### 🔧 Tools & Build
+<p align="center">
+  <img src="https://iconic-api.onrender.com/dark/webpack" width="64px" alt="Webpack" />
+  <img src="https://iconic-api.onrender.com/dark/vite" width="64px" alt="Vite" />
+  <img src="https://iconic-api.onrender.com/dark/git" width="64px" alt="Git" />
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" alt="VS Code" />
+</p>
+<br>
+
+#### ⚙️ Backend & Other
+<p align="center">
+ <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" alt="NodeJS" />
 </p>
 
 ### 👔 My CV
@@ -79,16 +70,45 @@
   </a>
 </div>
 
+### :file_folder: Featured repositories
+<div align="center">
+  <p>
+    <a href="https://github.com/PavelKochetkov/search-for-github-users" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=search-for-github-users&theme=react#gh-light-mode-only" />
+    </a>
+    <a href="https://github.com/PavelKochetkov/chat-slack" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=chat-slack&theme=react#gh-light-mode-only" />
+    </a>
+    <a href="https://github.com/PavelKochetkov/generation-service" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=generation-service&theme=react#gh-light-mode-only" />
+    </a>
+    <a href="https://github.com/PavelKochetkov/brain-games" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=brain-games&theme=react#gh-light-mode-only" />
+    </a>
+    <a href="https://github.com/PavelKochetkov/difference-calculator" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=difference-calculator&theme=react#gh-light-mode-only" />
+    </a>
+    <a href="https://github.com/PavelKochetkov/rss-aggregator" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=rss-aggregator&theme=react#gh-light-mode-only" />
+    </a>
+  </p>
+</div>
+
 ### :fire: Statistics
 <div align="center">
+ <p>
   <a href="http://www.github.com/PavelKochetkov">
-    <img src="https://github-readme-stats.vercel.app/api?username=PavelKochetkov&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="PavelKochetkov's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PavelKochetkov&theme=react#gh-light-mode-only"alt="PavelKochetkov's GitHub stats" />
   </a>
-
+ </p>
+ <p>
   <a href="http://www.github.com/PavelKochetkov">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavelKochetkov&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavelKochetkov&theme=react#gh-light-mode-only"/>
   </a>
+ </p>
+ <p>
   <a href="https://github.com/PavelKochetkov">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelKochetkov&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelKochetkov&langs_count=10&theme=react#gh-light-mode-only" alt="Top languages" />
   </a>
-</div>
+ </p>
+ </div>

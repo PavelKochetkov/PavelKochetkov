@@ -74,22 +74,22 @@
 <div align="center">
   <p>
     <a href="https://github.com/PavelKochetkov/search-for-github-users" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=search-for-github-users&theme=react#gh-light-mode-only" />
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=PavelKochetkov&repo=PavelKochetkov/search-for-github-users&description_lines_count=1&theme=react" />
     </a>
     <a href="https://github.com/PavelKochetkov/chat-slack" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=chat-slack&theme=react#gh-light-mode-only" />
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=PavelKochetkov&repo=PavelKochetkov/chat-slack&description_lines_count=1&theme=react" />
     </a>
     <a href="https://github.com/PavelKochetkov/generation-service" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=generation-service&theme=react#gh-light-mode-only" />
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=PavelKochetkov&repo=PavelKochetkov/generation-service&description_lines_count=1&theme=react" />
     </a>
     <a href="https://github.com/PavelKochetkov/brain-games" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=brain-games&theme=react#gh-light-mode-only" />
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=PavelKochetkov&repo=PavelKochetkov/brain-games&description_lines_count=1&theme=react" />
     </a>
     <a href="https://github.com/PavelKochetkov/difference-calculator" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=difference-calculator&theme=react#gh-light-mode-only" />
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=PavelKochetkov&repo=PavelKochetkov/difference-calculator&description_lines_count=1&theme=react" />
     </a>
     <a href="https://github.com/PavelKochetkov/rss-aggregator" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelKochetkov&repo=rss-aggregator&theme=react#gh-light-mode-only" />
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=PavelKochetkov&repo=PavelKochetkov/rss-aggregator&description_lines_count=1&theme=react" />
     </a>
   </p>
 </div>
@@ -98,17 +98,18 @@
 <div align="center">
  <p>
   <a href="http://www.github.com/PavelKochetkov">
-    <img src="https://github-readme-stats.vercel.app/api?username=PavelKochetkov&theme=react#gh-light-mode-only"alt="PavelKochetkov's GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=PavelKochetkov&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=react"alt="PavelKochetkov's GitHub stats" />
   </a>
  </p>
  <p>
   <a href="http://www.github.com/PavelKochetkov">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavelKochetkov&theme=react#gh-light-mode-only"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=PavelKochetkov&theme=react&fire=EB5454&ring=EA9742" alt="GitHub Streak"/>
   </a>
  </p>
  <p>
   <a href="https://github.com/PavelKochetkov">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelKochetkov&langs_count=10&theme=react#gh-light-mode-only" alt="Top languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PavelKochetkov&langs_count=10&theme=react" alt="Top languages" />
   </a>
  </p>
  </div>
+ 

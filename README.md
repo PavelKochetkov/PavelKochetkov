@@ -76,6 +76,9 @@
     <a href="https://github.com/PavelKochetkov/search-for-github-users" target="_blank">
       <img src="https://github-stats-extended.vercel.app/api/pin?username=PavelKochetkov&repo=PavelKochetkov/search-for-github-users&description_lines_count=1&theme=react" />
     </a>
+    <a href="https://github.com/PavelKochetkov/test-green-api" target="_blank">
+      <img src="https://github-stats-extended.vercel.app/api/pin?username=PavelKochetkov&repo=PavelKochetkov/test-green-api&description_lines_count=1&theme=react" />
+    </a>
     <a href="https://github.com/PavelKochetkov/chat-slack" target="_blank">
       <img src="https://github-stats-extended.vercel.app/api/pin?username=PavelKochetkov&repo=PavelKochetkov/chat-slack&description_lines_count=1&theme=react" />
     </a>

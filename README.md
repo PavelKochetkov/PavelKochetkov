@@ -62,7 +62,7 @@
 
 ### 👔 My CV
 <div align="center">
-  <a href="https://hh.ru/resume/ed3d366cff0b37ddf10039ed1f4b5437455158" target="_blank" rel="noreferrer">
+  <a href="https://vladimir.hh.ru/resume/33487f2bff1123cfab0039ed1f6e6e4c6e346b" target="_blank" rel="noreferrer">
     <img 
       src="https://img.shields.io/badge/View%20CV-red?logoColor=white&style=for-the-badge" 
       alt="CV Badge" 

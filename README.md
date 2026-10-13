@@ -70,7 +70,7 @@
   </a>
 </div>
 
-### :file_folder: Featured repositories
+### 📁 Featured repositories
 <div align="center">
   <p>
     <a href="https://github.com/PavelKochetkov/search-for-github-users" target="_blank">
@@ -97,7 +97,7 @@
   </p>
 </div>
 
-### :fire: Statistics
+### 🔥 Statistics
 <div align="center">
  <p>
   <a href="http://www.github.com/PavelKochetkov">
